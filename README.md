@@ -44,4 +44,4 @@ kalkulator-sederhana/
 ```
 ---
 
-Dibuat dengan ❤️ oleh [Rizal Shidiq]
+Dibuat dengan ❤️ oleh Rizal Shidiq
