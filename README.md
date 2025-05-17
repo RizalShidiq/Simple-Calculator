@@ -24,7 +24,7 @@ Kalkulator sederhana dengan operasi matematika dasar yang dibangun menggunakan H
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/repo-kalkulator.git
+   git clone https://github.com/RizalShidiq/Simple-Calculator.git
    ```
 2. Buka file `index.html` di browser web Anda
 3. Gunakan kalkulator dengan:
