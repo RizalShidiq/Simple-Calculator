@@ -38,8 +38,8 @@ Kalkulator sederhana dengan operasi matematika dasar yang dibangun menggunakan H
 ```
 kalkulator-sederhana/
 ├── index.html          # File utama HTML
-├── style.css           # File CSS (opsional jika dipisah)
-├── script.js           # File JavaScript (opsional jika dipisah)
+├── style.css           # File CSS
+├── script.js           # File JavaScript
 └── README.md           # Dokumentasi ini
 ```
 ---
