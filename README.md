@@ -20,19 +20,6 @@ Kalkulator sederhana dengan operasi matematika dasar yang dibangun menggunakan H
 - CSS3
 - JavaScript (ES6)
 
-## Cara Menggunakan
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/RizalShidiq/Simple-Calculator.git
-   ```
-2. Buka file `index.html` di browser web Anda
-3. Gunakan kalkulator dengan:
-   - Klik tombol angka untuk input
-   - Pilih operasi matematika
-   - Tekan `=` untuk melihat hasil
-   - Tekan `C` untuk menghapus input
-
 ## Struktur Proyek
 
 ```
